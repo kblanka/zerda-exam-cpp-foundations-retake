@@ -57,7 +57,7 @@ It should take a number as an argument and top up the balance with it.
 #### get_best_employees_name
 It should return the name of the employee that has the most worked hours
 
-#### bonus
+#### give_bonuses
 It should give a raise to each employee that has more work hour than 100
 
 #### get_status
